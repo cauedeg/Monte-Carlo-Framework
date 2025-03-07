@@ -1,0 +1,30 @@
+venv/
+venv*/
+.Python
+bin/
+Include/
+Lib/
+lib64/
+pip-selfcheck.json
+venv/Scripts/
+share/
+etc/
+backend/scripts/__pycache__/
+backend/.python-version
+backend/req.txt
+
+
+#IDE files
+
+.vscode/
+.idea/
+*.iml
+*.pyc
+.req.txt
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+/dist/
